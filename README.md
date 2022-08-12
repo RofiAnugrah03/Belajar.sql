@@ -1,0 +1,2 @@
+# Belajar.sql
+SQL
